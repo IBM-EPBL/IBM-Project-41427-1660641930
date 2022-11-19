@@ -31,3 +31,8 @@ Faulty Mentor    :	Dr.K.V.Praveen
  **Proposed Solution**
  
    We are trying to resolve this problem by building and intelligent fire management system using an iot device that can accurately ,effectively monitor and detect fire and automatically alert the people as well as the appropriate authority and activating the fire defense mechanism like sprinklers and be able to have fail safe like preventing from false alarm and know if the sprinklers are working properly from an application.
+   
+   **Solution Architecture**
+   
+   ![image](https://user-images.githubusercontent.com/113779556/202846998-5867df79-9c47-4af5-a12a-77bfbb84d5da.png)
+
